@@ -30,19 +30,16 @@ StudyBuddy AI is an intelligent learning assistant that leverages advanced AI te
 
 4. Download and install Ollama from [https://ollama.ai/](https://ollama.ai/)
 
-5. Pull the Llama 2 model:
+5. Pull the Llama 3.1 model:
    ```
-   ollama pull llama2
+   ollama pull llama3.1
    ```
 
 ## Usage
 
 1. Place your PDF study materials in the `documents/` directory.
 
-2. Run the main script:
-   ```
-   python studybuddy_ai.py
-   ```
+2. Follow the StudyBuddyAI notebook
 
 3. Follow the on-screen prompts to:
    - Process PDF documents
@@ -60,14 +57,6 @@ StudyBuddy AI uses a RAG (Retrieval-Augmented Generation) system:
 3. **Query Processing**: User questions are vectorized and matched with relevant document chunks.
 4. **Answer Generation**: An AI model generates answers based on retrieved chunks.
 5. **Flashcard Creation**: The same process is used to generate relevant flashcards.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
