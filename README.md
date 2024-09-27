@@ -2,6 +2,8 @@
 
 StudyBuddy AI is an intelligent learning assistant that leverages advanced AI technologies to enhance the studying experience. It uses a sophisticated Retrieval-Augmented Generation (RAG) system to provide personalized answers and generate topic-specific flashcards based on your study materials.
 
+If you don't know what RAG (Retrieval Augmented Generation) is, you can follow my [RAG tutorial](https://github.com/FarazFazelifar/RAG-Demo1) to learn and understand what RAG is and implement one from scratch.
+
 ## Features
 
 - **Document Processing**: Ingest and process PDF study materials.
