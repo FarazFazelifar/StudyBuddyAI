@@ -17,7 +17,7 @@ If you don't know what RAG is and want to build one from scratch, you can follow
 
 1. Clone this repository:
    ```
-   git clone https://github.com/YourUsername/StudyBuddyAI.git
+   git clone https://github.com/FarazFazelifar/StudyBuddyAI.git
    cd StudyBuddyAI
    ```
 
